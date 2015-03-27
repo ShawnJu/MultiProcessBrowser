@@ -1,8 +1,6 @@
 # MultiProcessBrowser
 
-## PURPOSE:
-
-	browser is a simple multi-process web browser that allows simple webpage browsing. Users can easily open different webpages in different tabs.
+	Browser is a simple multi-process web browser that allows simple webpage browsing. Users can easily open different webpages in different tabs.
 
 ## COMPILE:
 
